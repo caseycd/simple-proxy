@@ -1,0 +1,5 @@
+node_modules/
+.next/
+beer-die.db
+.env*
+*.log
